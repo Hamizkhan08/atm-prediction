@@ -103,15 +103,6 @@ Then open your browser:
 http://127.0.0.1:5000/
 ```
 
----
-
-## 📊 Screenshots
-
-<img src="screenshots/dashboard.png" width="600">
-<img src="screenshots/analytics.png" width="600">
-
----
-
 ## 📦 Requirements
 
 * Python 3.8+
