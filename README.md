@@ -2,10 +2,8 @@
 
 CashFlow Pro is an AI-powered web application that predicts ATM cash depletion risk based on historical usage patterns. Designed for banks and cash logistics teams to optimize replenishment cycles and reduce ATM downtime.
 
-![image](https://github.com/user-attachments/assets/1b2d823f-910f-4b0d-9710-1580e1618f72)
-![image](https://github.com/user-attachments/assets/fb230e29-cc60-4779-82cf-56fabfb61375)
-![image](https://github.com/user-attachments/assets/f828b30e-1051-42aa-b1f6-d0db2320c045)
-![image](https://github.com/user-attachments/assets/7f463e17-e08c-46fe-9334-90495ae57f81)
+![image](https://github.com/user-attachments/assets/1b2d823f-910f-4b0d-9710-1580e1618f72),![image](https://github.com/user-attachments/assets/fb230e29-cc60-4779-82cf-56fabfb61375)
+![image](https://github.com/user-attachments/assets/f828b30e-1051-42aa-b1f6-d0db2320c045),![image](https://github.com/user-attachments/assets/7f463e17-e08c-46fe-9334-90495ae57f81)
 
 ---
 
